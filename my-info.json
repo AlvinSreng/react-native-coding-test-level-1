@@ -2,5 +2,6 @@
   "favoriteColors": ["red", "green", "yellow"],
   "visitCountry": "korea",
   "populationOfCountry": 51780579,
-  "willVisit": true
+  "willVisit": true,
+  "favoriteFoods": ["Sushi", "Kimchi", "Salmon"]
 }
